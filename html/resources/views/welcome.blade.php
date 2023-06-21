@@ -1,3 +1,7 @@
+<?php
+$var = 1;
+    echo xdebug_info();
+?>
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
